@@ -84,4 +84,3 @@ Use the demo accounts created by Laravel seeder:
 - Cart is still stored in localStorage (client-side only)
 - All other data is fetched from the Laravel backend
 - The app handles both snake_case (Laravel) and camelCase (legacy) field names
-
